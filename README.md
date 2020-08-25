@@ -27,7 +27,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://moja.global"><img src="https://avatars1.githubusercontent.com/u/19564969?v=4" width="100px;" alt=""/><br /><sub><b>moja global</b></sub></a><br /><a href="#projectManagement-moja-global" title="Project Management">📆</a></td>
     <td align="center"><a href="https://github.com/GeoffRoberts"><img src="https://avatars1.githubusercontent.com/u/12243530?v=4" width="100px;" alt=""/><br /><sub><b>GeoffRoberts</b></sub></a><br /><a href="#projectManagement-GeoffRoberts" title="Project Management">📆</a></td>
   </tr>
 </table>
@@ -42,7 +41,11 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ## Maintainers Reviewers Ambassadors Coaches
 
 The following people are Maintainers Reviewers Ambassadors or Coaches  
-<table><tr><td align="center"><a href="http://moja.global"><img src="https://avatars1.githubusercontent.com/u/19564969?v=4" width="100px;" alt="moja global"/><br /><sub><b>moja global</b></sub></a><br /><a href="#projectManagement-moja-global" title="Project Management">📆</a></td></tr></table>
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/GeoffRoberts"><img src="https://avatars1.githubusercontent.com/u/12243530?v=4" width="100px;" alt=""/><br /><sub><b>GeoffRoberts</b></sub></a><br /><a href="#projectManagement-GeoffRoberts" title="Project Management">📆</a></td>
+  </tr>
+</table>
 
 
 **Maintainers** review and accept proposed changes  
